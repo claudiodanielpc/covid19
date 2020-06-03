@@ -6,3 +6,4 @@ This chart allows us to visualize the change in trends over time. In this case, 
 
 ![gif](https://raw.githubusercontent.com/claudiodanielpc/covid19/master/barchar%20race/barracecovid.gif)
 
+ 
