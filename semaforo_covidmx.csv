@@ -1,609 +1,641 @@
 cve_ent,nom_ent,fecha_publica,fecha_inicio,fecha_fin,color_sem,nivel
-1,Aguascalientes,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-2,Baja California,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-3,Baja California Sur,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-4,Campeche,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-5,Coahuila de Zaragoza,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-6,Colima,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-7,Chiapas,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-8,Chihuahua,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-9,Ciudad de México,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-10,Durango,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-11,Guanajuato,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-12,Guerrero,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-13,Hidalgo,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-14,Jalisco,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-15,México,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-16,Michoacán de Ocampo,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-17,Morelos,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-18,Nayarit,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-19,Nuevo León,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-20,Oaxaca,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-21,Puebla,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-22,Querétaro,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-23,Quintana Roo,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-24,San Luis Potosí,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-25,Sinaloa,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-26,Sonora,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-27,Tabasco,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-28,Tamaulipas,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-29,Tlaxcala,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-30,Veracruz de Ignacio de la Llave,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-31,Yucatán,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-32,Zacatecas,01-06-2020,01-06-2020,14-06-2020,Rojo,Máximo
-1,Aguascalientes,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-2,Baja California,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-3,Baja California Sur,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-4,Campeche,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-5,Coahuila de Zaragoza,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-6,Colima,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-7,Chiapas,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-8,Chihuahua,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-9,Ciudad de México,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-10,Durango,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-11,Guanajuato,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-12,Guerrero,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-13,Hidalgo,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-14,Jalisco,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-15,México,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-16,Michoacán de Ocampo,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-17,Morelos,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-18,Nayarit,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-19,Nuevo León,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-20,Oaxaca,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-21,Puebla,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-22,Querétaro,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-23,Quintana Roo,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-24,San Luis Potosí,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-25,Sinaloa,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-26,Sonora,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-27,Tabasco,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-28,Tamaulipas,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-29,Tlaxcala,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-30,Veracruz de Ignacio de la Llave,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-31,Yucatán,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-32,Zacatecas,12-06-2020,15-06-2020,21-06-2020,Rojo,Máximo
-1,Aguascalientes,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-2,Baja California,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-3,Baja California Sur,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-4,Campeche,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-5,Coahuila de Zaragoza,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-6,Colima,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-7,Chiapas,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-8,Chihuahua,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-9,Ciudad de México,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-10,Durango,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-11,Guanajuato,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-12,Guerrero,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-13,Hidalgo,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-14,Jalisco,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-15,México,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-16,Michoacán de Ocampo,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-17,Morelos,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-18,Nayarit,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-19,Nuevo León,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-20,Oaxaca,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-21,Puebla,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-22,Querétaro,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-23,Quintana Roo,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-24,San Luis Potosí,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-25,Sinaloa,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-26,Sonora,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-27,Tabasco,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-28,Tamaulipas,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-29,Tlaxcala,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-30,Veracruz de Ignacio de la Llave,19-06-2020,22-06-2020,28-06-2020,Rojo,Máximo
-31,Yucatán,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-32,Zacatecas,19-06-2020,22-06-2020,28-06-2020,Naranja,Alto
-1,Aguascalientes,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-2,Baja California,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-3,Baja California Sur,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-4,Campeche,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-5,Coahuila de Zaragoza,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-6,Colima,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-7,Chiapas,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-8,Chihuahua,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-9,Ciudad de México,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-10,Durango,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-11,Guanajuato,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-12,Guerrero,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-13,Hidalgo,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-14,Jalisco,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-15,México,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-16,Michoacán de Ocampo,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-17,Morelos,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-18,Nayarit,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-19,Nuevo León,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-20,Oaxaca,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-21,Puebla,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-22,Querétaro,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-23,Quintana Roo,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-24,San Luis Potosí,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-25,Sinaloa,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-26,Sonora,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-27,Tabasco,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-28,Tamaulipas,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-29,Tlaxcala,26-06-2020,29-06-2020,05-07-2020,Rojo,Máximo
-30,Veracruz de Ignacio de la Llave,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-31,Yucatán,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-32,Zacatecas,26-06-2020,29-06-2020,05-07-2020,Naranja,Alto
-1,Aguascalientes,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-2,Baja California,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-3,Baja California Sur,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-4,Campeche,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-5,Coahuila de Zaragoza,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-6,Colima,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-7,Chiapas,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-8,Chihuahua,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-9,Ciudad de México,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-10,Durango,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-11,Guanajuato,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-12,Guerrero,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-13,Hidalgo,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-14,Jalisco,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-15,México,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-16,Michoacán de Ocampo,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-17,Morelos,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-18,Nayarit,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-19,Nuevo León,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-20,Oaxaca,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-21,Puebla,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-22,Querétaro,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-23,Quintana Roo,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-24,San Luis Potosí,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-25,Sinaloa,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-26,Sonora,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-27,Tabasco,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-28,Tamaulipas,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-29,Tlaxcala,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-30,Veracruz de Ignacio de la Llave,03-07-2020,06-07-2020,19-07-2020,Rojo,Máximo
-31,Yucatán,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-32,Zacatecas,03-07-2020,06-07-2020,19-07-2020,Naranja,Alto
-1,Aguascalientes,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-2,Baja California,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-3,Baja California Sur,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-4,Campeche,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-5,Coahuila de Zaragoza,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-6,Colima,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-7,Chiapas,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-8,Chihuahua,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-9,Ciudad de México,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-10,Durango,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-11,Guanajuato,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-12,Guerrero,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-13,Hidalgo,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-14,Jalisco,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-15,México,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-16,Michoacán de Ocampo,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-17,Morelos,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-18,Nayarit,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-19,Nuevo León,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-20,Oaxaca,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-21,Puebla,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-22,Querétaro,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-23,Quintana Roo,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-24,San Luis Potosí,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-25,Sinaloa,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-26,Sonora,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-27,Tabasco,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-28,Tamaulipas,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-29,Tlaxcala,17-07-2020,20-07-2020,02-08-2020,Naranja,Alto
-30,Veracruz de Ignacio de la Llave,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-31,Yucatán,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-32,Zacatecas,17-07-2020,20-07-2020,02-08-2020,Rojo,Máximo
-1,Aguascalientes,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-2,Baja California,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-3,Baja California Sur,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-4,Campeche,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-5,Coahuila de Zaragoza,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-6,Colima,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-7,Chiapas,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-8,Chihuahua,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-9,Ciudad de México,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-10,Durango,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-11,Guanajuato,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-12,Guerrero,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-13,Hidalgo,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-14,Jalisco,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-15,México,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-16,Michoacán de Ocampo,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-17,Morelos,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-18,Nayarit,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-19,Nuevo León,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-20,Oaxaca,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-21,Puebla,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-22,Querétaro,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-23,Quintana Roo,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-24,San Luis Potosí,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-25,Sinaloa,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-26,Sonora,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-27,Tabasco,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-28,Tamaulipas,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-29,Tlaxcala,31-07-2020,03-08-2020,16-08-2020,Naranja,Alto
-30,Veracruz de Ignacio de la Llave,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-31,Yucatán,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-32,Zacatecas,31-07-2020,03-08-2020,16-08-2020,Rojo,Máximo
-1,Aguascalientes,14-08-2020,17-08-2020,30-08-2020,Rojo,Máximo
-2,Baja California,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-3,Baja California Sur,14-08-2020,17-08-2020,30-08-2020,Rojo,Máximo
-4,Campeche,14-08-2020,17-08-2020,30-08-2020,Amarillo,Medio
-5,Coahuila de Zaragoza,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-6,Colima,14-08-2020,17-08-2020,30-08-2020,Rojo,Máximo
-7,Chiapas,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-8,Chihuahua,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-9,Ciudad de México,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-10,Durango,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-11,Guanajuato,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-12,Guerrero,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-13,Hidalgo,14-08-2020,17-08-2020,30-08-2020,Rojo,Máximo
-14,Jalisco,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-15,México,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-16,Michoacán de Ocampo,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-17,Morelos,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-18,Nayarit,14-08-2020,17-08-2020,30-08-2020,Rojo,Máximo
-19,Nuevo León,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-20,Oaxaca,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-21,Puebla,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-22,Querétaro,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-23,Quintana Roo,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-24,San Luis Potosí,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-25,Sinaloa,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-26,Sonora,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-27,Tabasco,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-28,Tamaulipas,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-29,Tlaxcala,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-30,Veracruz de Ignacio de la Llave,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-31,Yucatán,14-08-2020,17-08-2020,30-08-2020,Naranja,Alto
-32,Zacatecas,14-08-2020,17-08-2020,30-08-2020,Rojo,Máximo
-1,Aguascalientes,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-2,Baja California,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-3,Baja California Sur,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-4,Campeche,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-5,Coahuila de Zaragoza,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-6,Colima,28-08-2020,31-08-2020,13-09-2020,Rojo,Máximo
-7,Chiapas,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-8,Chihuahua,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-9,Ciudad de México,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-10,Durango,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-11,Guanajuato,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-12,Guerrero,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-13,Hidalgo,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-14,Jalisco,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-15,México,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-16,Michoacán de Ocampo,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-17,Morelos,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-18,Nayarit,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-19,Nuevo León,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-20,Oaxaca,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-21,Puebla,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-22,Querétaro,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-23,Quintana Roo,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-24,San Luis Potosí,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-25,Sinaloa,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-26,Sonora,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-27,Tabasco,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-28,Tamaulipas,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-29,Tlaxcala,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-30,Veracruz de Ignacio de la Llave,28-08-2020,31-08-2020,13-09-2020,Amarillo,Medio
-31,Yucatán,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-32,Zacatecas,28-08-2020,31-08-2020,13-09-2020,Naranja,Alto
-1,Aguascalientes,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-2,Baja California,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-3,Baja California Sur,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-4,Campeche,11-09-2020,14-09-2020,27-09-2020,Amarillo,Medio
-5,Coahuila de Zaragoza,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-6,Colima,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-7,Chiapas,11-09-2020,14-09-2020,27-09-2020,Amarillo,Medio
-8,Chihuahua,11-09-2020,14-09-2020,27-09-2020,Amarillo,Medio
-9,Ciudad de México,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-10,Durango,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-11,Guanajuato,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-12,Guerrero,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-13,Hidalgo,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-14,Jalisco,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-15,México,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-16,Michoacán de Ocampo,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-17,Morelos,11-09-2020,14-09-2020,27-09-2020,Amarillo,Medio
-18,Nayarit,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-19,Nuevo León,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-20,Oaxaca,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-21,Puebla,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-22,Querétaro,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-23,Quintana Roo,11-09-2020,14-09-2020,27-09-2020,Amarillo,Medio
-24,San Luis Potosí,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-25,Sinaloa,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-26,Sonora,11-09-2020,14-09-2020,27-09-2020,Amarillo,Medio
-27,Tabasco,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-28,Tamaulipas,11-09-2020,14-09-2020,27-09-2020,Amarillo,Medio
-29,Tlaxcala,11-09-2020,14-09-2020,27-09-2020,Amarillo,Medio
-30,Veracruz de Ignacio de la Llave,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-31,Yucatán,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-32,Zacatecas,11-09-2020,14-09-2020,27-09-2020,Naranja,Alto
-1,Aguascalientes,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-2,Baja California,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-3,Baja California Sur,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-4,Campeche,25-09-2020,28-09-2020,11-10-2020,Verde,Bajo
-5,Coahuila de Zaragoza,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-6,Colima,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-7,Chiapas,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-8,Chihuahua,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-9,Ciudad de México,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-10,Durango,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-11,Guanajuato,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-12,Guerrero,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-13,Hidalgo,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-14,Jalisco,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-15,México,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-16,Michoacán de Ocampo,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-17,Morelos,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-18,Nayarit,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-19,Nuevo León,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-20,Oaxaca,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-21,Puebla,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-22,Querétaro,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-23,Quintana Roo,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-24,San Luis Potosí,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-25,Sinaloa,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-26,Sonora,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-27,Tabasco,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-28,Tamaulipas,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-29,Tlaxcala,25-09-2020,28-09-2020,11-10-2020,Amarillo,Medio
-30,Veracruz de Ignacio de la Llave,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-31,Yucatán,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-32,Zacatecas,25-09-2020,28-09-2020,11-10-2020,Naranja,Alto
-1,Aguascalientes,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-2,Baja California,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-3,Baja California Sur,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-4,Campeche,09-10-2020,12-10-2020,25-10-2020,Verde,Bajo
-5,Coahuila de Zaragoza,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-6,Colima,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-7,Chiapas,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-8,Chihuahua,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-9,Ciudad de México,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-10,Durango,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-11,Guanajuato,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-12,Guerrero,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-13,Hidalgo,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-14,Jalisco,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-15,México,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-16,Michoacán de Ocampo,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-17,Morelos,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-18,Nayarit,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-19,Nuevo León,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-20,Oaxaca,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-21,Puebla,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-22,Querétaro,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-23,Quintana Roo,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-24,San Luis Potosí,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-25,Sinaloa,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-26,Sonora,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-27,Tabasco,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-28,Tamaulipas,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-29,Tlaxcala,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-30,Veracruz de Ignacio de la Llave,09-10-2020,12-10-2020,25-10-2020,Amarillo,Medio
-31,Yucatán,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-32,Zacatecas,09-10-2020,12-10-2020,25-10-2020,Naranja,Alto
-1,Aguascalientes,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-2,Baja California,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-3,Baja California Sur,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-4,Campeche,23-10-2020,26-10-2020,08-11-2020,Verde,Bajo
-5,Coahuila de Zaragoza,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-6,Colima,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-7,Chiapas,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-8,Chihuahua,23-10-2020,26-10-2020,08-11-2020,Rojo,Máximo
-9,Ciudad de México,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-10,Durango,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-11,Guanajuato,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-12,Guerrero,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-13,Hidalgo,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-14,Jalisco,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-15,México,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-16,Michoacán de Ocampo,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-17,Morelos,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-18,Nayarit,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-19,Nuevo León,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-20,Oaxaca,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-21,Puebla,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-22,Querétaro,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-23,Quintana Roo,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-24,San Luis Potosí,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-25,Sinaloa,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-26,Sonora,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-27,Tabasco,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-28,Tamaulipas,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-29,Tlaxcala,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-30,Veracruz de Ignacio de la Llave,23-10-2020,26-10-2020,08-11-2020,Amarillo,Medio
-31,Yucatán,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-32,Zacatecas,23-10-2020,26-10-2020,08-11-2020,Naranja,Alto
-1,Aguascalientes,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-2,Baja California,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-3,Baja California Sur,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-4,Campeche,06-11-2020,09-11-2020,22-11-2020,Verde,Bajo
-5,Coahuila de Zaragoza,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-6,Colima,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-7,Chiapas,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-8,Chihuahua,06-11-2020,09-11-2020,22-11-2020,Rojo,Máximo
-9,Ciudad de México,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-10,Durango,06-11-2020,09-11-2020,22-11-2020,Rojo,Máximo
-11,Guanajuato,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-12,Guerrero,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-13,Hidalgo,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-14,Jalisco,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-15,México,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-16,Michoacán de Ocampo,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-17,Morelos,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-18,Nayarit,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-19,Nuevo León,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-20,Oaxaca,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-21,Puebla,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-22,Querétaro,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-23,Quintana Roo,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-24,San Luis Potosí,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-25,Sinaloa,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-26,Sonora,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-27,Tabasco,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-28,Tamaulipas,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-29,Tlaxcala,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-30,Veracruz de Ignacio de la Llave,06-11-2020,09-11-2020,22-11-2020,Amarillo,Medio
-31,Yucatán,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-32,Zacatecas,06-11-2020,09-11-2020,22-11-2020,Naranja,Alto
-1,Aguascalientes,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-2,Baja California,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-3,Baja California Sur,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-4,Campeche,20-11-2020,23-11-2020,06-12-2020,Verde,Bajo
-5,Coahuila de Zaragoza,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-6,Colima,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-7,Chiapas,20-11-2020,23-11-2020,06-12-2020,Verde,Bajo
-8,Chihuahua,20-11-2020,23-11-2020,06-12-2020,Rojo,Máximo
-9,Ciudad de México,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-10,Durango,20-11-2020,23-11-2020,06-12-2020,Rojo,Máximo
-11,Guanajuato,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-12,Guerrero,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-13,Hidalgo,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-14,Jalisco,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-15,México,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-16,Michoacán de Ocampo,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-17,Morelos,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-18,Nayarit,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-19,Nuevo León,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-20,Oaxaca,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-21,Puebla,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-22,Querétaro,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-23,Quintana Roo,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-24,San Luis Potosí,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-25,Sinaloa,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-26,Sonora,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-27,Tabasco,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-28,Tamaulipas,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-29,Tlaxcala,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-30,Veracruz de Ignacio de la Llave,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-31,Yucatán,20-11-2020,23-11-2020,06-12-2020,Amarillo,Medio
-32,Zacatecas,20-11-2020,23-11-2020,06-12-2020,Naranja,Alto
-1,Aguascalientes,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-2,Baja California,04-12-2020,07-12-2020,20-12-2020,Rojo,Máximo
-3,Baja California Sur,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-4,Campeche,04-12-2020,07-12-2020,20-12-2020,Verde,Bajo
-5,Coahuila de Zaragoza,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-6,Colima,04-12-2020,07-12-2020,20-12-2020,Amarillo,Medio
-7,Chiapas,04-12-2020,07-12-2020,20-12-2020,Verde,Bajo
-8,Chihuahua,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-9,Ciudad de México,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-10,Durango,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-11,Guanajuato,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-12,Guerrero,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-13,Hidalgo,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-14,Jalisco,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-15,México,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-16,Michoacán de Ocampo,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-17,Morelos,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-18,Nayarit,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-19,Nuevo León,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-20,Oaxaca,04-12-2020,07-12-2020,20-12-2020,Amarillo,Medio
-21,Puebla,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-22,Querétaro,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-23,Quintana Roo,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-24,San Luis Potosí,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-25,Sinaloa,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-26,Sonora,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-27,Tabasco,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-28,Tamaulipas,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-29,Tlaxcala,04-12-2020,07-12-2020,20-12-2020,Amarillo,Medio
-30,Veracruz de Ignacio de la Llave,04-12-2020,07-12-2020,20-12-2020,Verde,Bajo
-31,Yucatán,04-12-2020,07-12-2020,20-12-2020,Naranja,Alto
-32,Zacatecas,04-12-2020,07-12-2020,20-12-2020,Rojo,Máximo
-1,Aguascalientes,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-2,Baja California,18-12-2020,21-12-2020,03-01-2021,Rojo,Máximo
-3,Baja California Sur,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-4,Campeche,18-12-2020,21-12-2020,03-01-2021,Verde,Bajo
-5,Coahuila de Zaragoza,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-6,Colima,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-7,Chiapas,18-12-2020,21-12-2020,03-01-2021,Verde,Bajo
-8,Chihuahua,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-9,Ciudad de México,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-10,Durango,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-11,Guanajuato,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-12,Guerrero,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-13,Hidalgo,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-14,Jalisco,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-15,México,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-16,Michoacán de Ocampo,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-17,Morelos,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-18,Nayarit,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-19,Nuevo León,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-20,Oaxaca,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-21,Puebla,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-22,Querétaro,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-23,Quintana Roo,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-24,San Luis Potosí,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-25,Sinaloa,18-12-2020,21-12-2020,03-01-2021,Amarillo,Medio
-26,Sonora,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-27,Tabasco,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-28,Tamaulipas,18-12-2020,21-12-2020,03-01-2021,Amarillo,Medio
-29,Tlaxcala,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-30,Veracruz de Ignacio de la Llave,18-12-2020,21-12-2020,03-01-2021,Amarillo,Medio
-31,Yucatán,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-32,Zacatecas,18-12-2020,21-12-2020,03-01-2021,Naranja,Alto
-1,Aguascalientes,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-2,Baja California,01-01-2021,04-01-2021,17-01-2021,Rojo,Máximo
-3,Baja California Sur,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-4,Campeche,01-01-2021,04-01-2021,17-01-2021,Verde,Bajo
-5,Coahuila de Zaragoza,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-6,Colima,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-7,Chiapas,01-01-2021,04-01-2021,17-01-2021,Verde,Bajo
-8,Chihuahua,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-9,Ciudad de México,01-01-2021,04-01-2021,17-01-2021,Rojo,Máximo
-10,Durango,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-11,Guanajuato,01-01-2021,04-01-2021,17-01-2021,Rojo,Máximo
-12,Guerrero,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-13,Hidalgo,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-14,Jalisco,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-15,México,01-01-2021,04-01-2021,17-01-2021,Rojo,Máximo
-16,Michoacán de Ocampo,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-17,Morelos,01-01-2021,04-01-2021,17-01-2021,Rojo,Máximo
-18,Nayarit,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-19,Nuevo León,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-20,Oaxaca,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-21,Puebla,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-22,Querétaro,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-23,Quintana Roo,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-24,San Luis Potosí,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-25,Sinaloa,01-01-2021,04-01-2021,17-01-2021,Amarillo,Medio
-26,Sonora,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-27,Tabasco,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-28,Tamaulipas,01-01-2021,04-01-2021,17-01-2021,Amarillo,Medio
-29,Tlaxcala,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-30,Veracruz de Ignacio de la Llave,01-01-2021,04-01-2021,17-01-2021,Amarillo,Medio
-31,Yucatán,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-32,Zacatecas,01-01-2021,04-01-2021,17-01-2021,Naranja,Alto
-1,Aguascalientes,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-2,Baja California,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-3,Baja California Sur,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-4,Campeche,15-01-2021,18-01-2021,30-01-2021,Verde,Bajo
-5,Coahuila de Zaragoza,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-6,Colima,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-7,Chiapas,15-01-2021,18-01-2021,30-01-2021,Amarillo,Medio
-8,Chihuahua,15-01-2021,18-01-2021,30-01-2021,Amarillo,Medio
-9,Ciudad de México,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-10,Durango,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-11,Guanajuato,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-12,Guerrero,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-13,Hidalgo,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-14,Jalisco,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-15,México,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-16,Michoacán de Ocampo,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-17,Morelos,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-18,Nayarit,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-19,Nuevo León,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-20,Oaxaca,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-21,Puebla,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-22,Querétaro,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-23,Quintana Roo,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-24,San Luis Potosí,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-25,Sinaloa,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-26,Sonora,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-27,Tabasco,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-28,Tamaulipas,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-29,Tlaxcala,15-01-2021,18-01-2021,30-01-2021,Rojo,Máximo
-30,Veracruz de Ignacio de la Llave,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-31,Yucatán,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
-32,Zacatecas,15-01-2021,18-01-2021,30-01-2021,Naranja,Alto
+1,Aguascalientes,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+2,Baja California,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+3,Baja California Sur,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+4,Campeche,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+5,Coahuila de Zaragoza,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+6,Colima,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+7,Chiapas,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+8,Chihuahua,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+9,Ciudad de México,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+10,Durango,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+11,Guanajuato,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+12,Guerrero,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+13,Hidalgo,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+14,Jalisco,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+15,México,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+16,Michoacán de Ocampo,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+17,Morelos,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+18,Nayarit,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+19,Nuevo León,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+20,Oaxaca,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+21,Puebla,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+22,Querétaro,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+23,Quintana Roo,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+24,San Luis Potosí,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+25,Sinaloa,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+26,Sonora,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+27,Tabasco,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+28,Tamaulipas,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+29,Tlaxcala,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+30,Veracruz de Ignacio de la Llave,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+31,Yucatán,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+32,Zacatecas,01/06/2020,01/06/2020,14/06/2020,Rojo,Máximo
+1,Aguascalientes,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+2,Baja California,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+3,Baja California Sur,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+4,Campeche,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+5,Coahuila de Zaragoza,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+6,Colima,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+7,Chiapas,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+8,Chihuahua,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+9,Ciudad de México,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+10,Durango,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+11,Guanajuato,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+12,Guerrero,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+13,Hidalgo,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+14,Jalisco,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+15,México,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+16,Michoacán de Ocampo,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+17,Morelos,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+18,Nayarit,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+19,Nuevo León,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+20,Oaxaca,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+21,Puebla,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+22,Querétaro,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+23,Quintana Roo,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+24,San Luis Potosí,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+25,Sinaloa,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+26,Sonora,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+27,Tabasco,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+28,Tamaulipas,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+29,Tlaxcala,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+30,Veracruz de Ignacio de la Llave,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+31,Yucatán,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+32,Zacatecas,12/06/2020,15/06/2020,21/06/2020,Rojo,Máximo
+1,Aguascalientes,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+2,Baja California,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+3,Baja California Sur,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+4,Campeche,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+5,Coahuila de Zaragoza,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+6,Colima,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+7,Chiapas,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+8,Chihuahua,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+9,Ciudad de México,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+10,Durango,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+11,Guanajuato,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+12,Guerrero,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+13,Hidalgo,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+14,Jalisco,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+15,México,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+16,Michoacán de Ocampo,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+17,Morelos,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+18,Nayarit,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+19,Nuevo León,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+20,Oaxaca,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+21,Puebla,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+22,Querétaro,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+23,Quintana Roo,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+24,San Luis Potosí,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+25,Sinaloa,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+26,Sonora,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+27,Tabasco,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+28,Tamaulipas,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+29,Tlaxcala,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+30,Veracruz de Ignacio de la Llave,19/06/2020,22/06/2020,28/06/2020,Rojo,Máximo
+31,Yucatán,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+32,Zacatecas,19/06/2020,22/06/2020,28/06/2020,Naranja,Alto
+1,Aguascalientes,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+2,Baja California,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+3,Baja California Sur,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+4,Campeche,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+5,Coahuila de Zaragoza,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+6,Colima,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+7,Chiapas,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+8,Chihuahua,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+9,Ciudad de México,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+10,Durango,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+11,Guanajuato,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+12,Guerrero,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+13,Hidalgo,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+14,Jalisco,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+15,México,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+16,Michoacán de Ocampo,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+17,Morelos,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+18,Nayarit,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+19,Nuevo León,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+20,Oaxaca,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+21,Puebla,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+22,Querétaro,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+23,Quintana Roo,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+24,San Luis Potosí,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+25,Sinaloa,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+26,Sonora,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+27,Tabasco,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+28,Tamaulipas,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+29,Tlaxcala,26/06/2020,29/06/2020,05/07/2020,Rojo,Máximo
+30,Veracruz de Ignacio de la Llave,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+31,Yucatán,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+32,Zacatecas,26/06/2020,29/06/2020,05/07/2020,Naranja,Alto
+1,Aguascalientes,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+2,Baja California,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+3,Baja California Sur,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+4,Campeche,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+5,Coahuila de Zaragoza,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+6,Colima,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+7,Chiapas,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+8,Chihuahua,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+9,Ciudad de México,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+10,Durango,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+11,Guanajuato,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+12,Guerrero,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+13,Hidalgo,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+14,Jalisco,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+15,México,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+16,Michoacán de Ocampo,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+17,Morelos,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+18,Nayarit,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+19,Nuevo León,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+20,Oaxaca,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+21,Puebla,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+22,Querétaro,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+23,Quintana Roo,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+24,San Luis Potosí,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+25,Sinaloa,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+26,Sonora,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+27,Tabasco,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+28,Tamaulipas,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+29,Tlaxcala,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+30,Veracruz de Ignacio de la Llave,03/07/2020,06/07/2020,19/07/2020,Rojo,Máximo
+31,Yucatán,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+32,Zacatecas,03/07/2020,06/07/2020,19/07/2020,Naranja,Alto
+1,Aguascalientes,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+2,Baja California,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+3,Baja California Sur,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+4,Campeche,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+5,Coahuila de Zaragoza,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+6,Colima,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+7,Chiapas,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+8,Chihuahua,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+9,Ciudad de México,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+10,Durango,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+11,Guanajuato,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+12,Guerrero,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+13,Hidalgo,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+14,Jalisco,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+15,México,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+16,Michoacán de Ocampo,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+17,Morelos,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+18,Nayarit,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+19,Nuevo León,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+20,Oaxaca,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+21,Puebla,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+22,Querétaro,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+23,Quintana Roo,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+24,San Luis Potosí,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+25,Sinaloa,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+26,Sonora,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+27,Tabasco,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+28,Tamaulipas,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+29,Tlaxcala,17/07/2020,20/07/2020,02/08/2020,Naranja,Alto
+30,Veracruz de Ignacio de la Llave,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+31,Yucatán,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+32,Zacatecas,17/07/2020,20/07/2020,02/08/2020,Rojo,Máximo
+1,Aguascalientes,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+2,Baja California,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+3,Baja California Sur,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+4,Campeche,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+5,Coahuila de Zaragoza,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+6,Colima,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+7,Chiapas,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+8,Chihuahua,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+9,Ciudad de México,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+10,Durango,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+11,Guanajuato,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+12,Guerrero,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+13,Hidalgo,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+14,Jalisco,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+15,México,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+16,Michoacán de Ocampo,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+17,Morelos,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+18,Nayarit,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+19,Nuevo León,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+20,Oaxaca,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+21,Puebla,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+22,Querétaro,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+23,Quintana Roo,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+24,San Luis Potosí,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+25,Sinaloa,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+26,Sonora,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+27,Tabasco,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+28,Tamaulipas,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+29,Tlaxcala,31/07/2020,03/08/2020,16/08/2020,Naranja,Alto
+30,Veracruz de Ignacio de la Llave,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+31,Yucatán,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+32,Zacatecas,31/07/2020,03/08/2020,16/08/2020,Rojo,Máximo
+1,Aguascalientes,14/08/2020,17/08/2020,30/08/2020,Rojo,Máximo
+2,Baja California,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+3,Baja California Sur,14/08/2020,17/08/2020,30/08/2020,Rojo,Máximo
+4,Campeche,14/08/2020,17/08/2020,30/08/2020,Amarillo,Medio
+5,Coahuila de Zaragoza,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+6,Colima,14/08/2020,17/08/2020,30/08/2020,Rojo,Máximo
+7,Chiapas,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+8,Chihuahua,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+9,Ciudad de México,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+10,Durango,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+11,Guanajuato,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+12,Guerrero,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+13,Hidalgo,14/08/2020,17/08/2020,30/08/2020,Rojo,Máximo
+14,Jalisco,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+15,México,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+16,Michoacán de Ocampo,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+17,Morelos,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+18,Nayarit,14/08/2020,17/08/2020,30/08/2020,Rojo,Máximo
+19,Nuevo León,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+20,Oaxaca,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+21,Puebla,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+22,Querétaro,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+23,Quintana Roo,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+24,San Luis Potosí,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+25,Sinaloa,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+26,Sonora,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+27,Tabasco,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+28,Tamaulipas,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+29,Tlaxcala,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+30,Veracruz de Ignacio de la Llave,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+31,Yucatán,14/08/2020,17/08/2020,30/08/2020,Naranja,Alto
+32,Zacatecas,14/08/2020,17/08/2020,30/08/2020,Rojo,Máximo
+1,Aguascalientes,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+2,Baja California,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+3,Baja California Sur,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+4,Campeche,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+5,Coahuila de Zaragoza,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+6,Colima,28/08/2020,31/08/2020,13/09/2020,Rojo,Máximo
+7,Chiapas,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+8,Chihuahua,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+9,Ciudad de México,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+10,Durango,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+11,Guanajuato,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+12,Guerrero,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+13,Hidalgo,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+14,Jalisco,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+15,México,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+16,Michoacán de Ocampo,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+17,Morelos,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+18,Nayarit,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+19,Nuevo León,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+20,Oaxaca,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+21,Puebla,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+22,Querétaro,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+23,Quintana Roo,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+24,San Luis Potosí,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+25,Sinaloa,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+26,Sonora,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+27,Tabasco,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+28,Tamaulipas,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+29,Tlaxcala,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,28/08/2020,31/08/2020,13/09/2020,Amarillo,Medio
+31,Yucatán,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+32,Zacatecas,28/08/2020,31/08/2020,13/09/2020,Naranja,Alto
+1,Aguascalientes,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+2,Baja California,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+3,Baja California Sur,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+4,Campeche,11/09/2020,14/09/2020,27/09/2020,Amarillo,Medio
+5,Coahuila de Zaragoza,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+6,Colima,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+7,Chiapas,11/09/2020,14/09/2020,27/09/2020,Amarillo,Medio
+8,Chihuahua,11/09/2020,14/09/2020,27/09/2020,Amarillo,Medio
+9,Ciudad de México,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+10,Durango,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+11,Guanajuato,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+12,Guerrero,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+13,Hidalgo,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+14,Jalisco,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+15,México,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+16,Michoacán de Ocampo,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+17,Morelos,11/09/2020,14/09/2020,27/09/2020,Amarillo,Medio
+18,Nayarit,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+19,Nuevo León,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+20,Oaxaca,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+21,Puebla,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+22,Querétaro,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+23,Quintana Roo,11/09/2020,14/09/2020,27/09/2020,Amarillo,Medio
+24,San Luis Potosí,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+25,Sinaloa,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+26,Sonora,11/09/2020,14/09/2020,27/09/2020,Amarillo,Medio
+27,Tabasco,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+28,Tamaulipas,11/09/2020,14/09/2020,27/09/2020,Amarillo,Medio
+29,Tlaxcala,11/09/2020,14/09/2020,27/09/2020,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+31,Yucatán,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+32,Zacatecas,11/09/2020,14/09/2020,27/09/2020,Naranja,Alto
+1,Aguascalientes,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+2,Baja California,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+3,Baja California Sur,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+4,Campeche,25/09/2020,28/09/2020,11/10/2020,Verde,Bajo
+5,Coahuila de Zaragoza,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+6,Colima,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+7,Chiapas,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+8,Chihuahua,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+9,Ciudad de México,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+10,Durango,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+11,Guanajuato,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+12,Guerrero,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+13,Hidalgo,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+14,Jalisco,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+15,México,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+16,Michoacán de Ocampo,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+17,Morelos,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+18,Nayarit,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+19,Nuevo León,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+20,Oaxaca,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+21,Puebla,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+22,Querétaro,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+23,Quintana Roo,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+24,San Luis Potosí,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+25,Sinaloa,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+26,Sonora,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+27,Tabasco,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+28,Tamaulipas,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+29,Tlaxcala,25/09/2020,28/09/2020,11/10/2020,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+31,Yucatán,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+32,Zacatecas,25/09/2020,28/09/2020,11/10/2020,Naranja,Alto
+1,Aguascalientes,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+2,Baja California,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+3,Baja California Sur,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+4,Campeche,09/10/2020,12/10/2020,25/10/2020,Verde,Bajo
+5,Coahuila de Zaragoza,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+6,Colima,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+7,Chiapas,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+8,Chihuahua,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+9,Ciudad de México,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+10,Durango,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+11,Guanajuato,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+12,Guerrero,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+13,Hidalgo,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+14,Jalisco,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+15,México,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+16,Michoacán de Ocampo,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+17,Morelos,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+18,Nayarit,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+19,Nuevo León,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+20,Oaxaca,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+21,Puebla,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+22,Querétaro,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+23,Quintana Roo,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+24,San Luis Potosí,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+25,Sinaloa,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+26,Sonora,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+27,Tabasco,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+28,Tamaulipas,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+29,Tlaxcala,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,09/10/2020,12/10/2020,25/10/2020,Amarillo,Medio
+31,Yucatán,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+32,Zacatecas,09/10/2020,12/10/2020,25/10/2020,Naranja,Alto
+1,Aguascalientes,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+2,Baja California,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+3,Baja California Sur,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+4,Campeche,23/10/2020,26/10/2020,08/11/2020,Verde,Bajo
+5,Coahuila de Zaragoza,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+6,Colima,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+7,Chiapas,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+8,Chihuahua,23/10/2020,26/10/2020,08/11/2020,Rojo,Máximo
+9,Ciudad de México,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+10,Durango,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+11,Guanajuato,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+12,Guerrero,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+13,Hidalgo,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+14,Jalisco,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+15,México,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+16,Michoacán de Ocampo,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+17,Morelos,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+18,Nayarit,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+19,Nuevo León,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+20,Oaxaca,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+21,Puebla,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+22,Querétaro,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+23,Quintana Roo,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+24,San Luis Potosí,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+25,Sinaloa,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+26,Sonora,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+27,Tabasco,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+28,Tamaulipas,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+29,Tlaxcala,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,23/10/2020,26/10/2020,08/11/2020,Amarillo,Medio
+31,Yucatán,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+32,Zacatecas,23/10/2020,26/10/2020,08/11/2020,Naranja,Alto
+1,Aguascalientes,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+2,Baja California,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+3,Baja California Sur,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+4,Campeche,06/11/2020,09/11/2020,22/11/2020,Verde,Bajo
+5,Coahuila de Zaragoza,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+6,Colima,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+7,Chiapas,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+8,Chihuahua,06/11/2020,09/11/2020,22/11/2020,Rojo,Máximo
+9,Ciudad de México,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+10,Durango,06/11/2020,09/11/2020,22/11/2020,Rojo,Máximo
+11,Guanajuato,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+12,Guerrero,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+13,Hidalgo,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+14,Jalisco,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+15,México,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+16,Michoacán de Ocampo,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+17,Morelos,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+18,Nayarit,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+19,Nuevo León,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+20,Oaxaca,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+21,Puebla,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+22,Querétaro,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+23,Quintana Roo,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+24,San Luis Potosí,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+25,Sinaloa,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+26,Sonora,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+27,Tabasco,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+28,Tamaulipas,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+29,Tlaxcala,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,06/11/2020,09/11/2020,22/11/2020,Amarillo,Medio
+31,Yucatán,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+32,Zacatecas,06/11/2020,09/11/2020,22/11/2020,Naranja,Alto
+1,Aguascalientes,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+2,Baja California,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+3,Baja California Sur,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+4,Campeche,20/11/2020,23/11/2020,06/12/2020,Verde,Bajo
+5,Coahuila de Zaragoza,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+6,Colima,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+7,Chiapas,20/11/2020,23/11/2020,06/12/2020,Verde,Bajo
+8,Chihuahua,20/11/2020,23/11/2020,06/12/2020,Rojo,Máximo
+9,Ciudad de México,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+10,Durango,20/11/2020,23/11/2020,06/12/2020,Rojo,Máximo
+11,Guanajuato,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+12,Guerrero,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+13,Hidalgo,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+14,Jalisco,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+15,México,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+16,Michoacán de Ocampo,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+17,Morelos,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+18,Nayarit,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+19,Nuevo León,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+20,Oaxaca,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+21,Puebla,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+22,Querétaro,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+23,Quintana Roo,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+24,San Luis Potosí,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+25,Sinaloa,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+26,Sonora,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+27,Tabasco,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+28,Tamaulipas,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+29,Tlaxcala,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+31,Yucatán,20/11/2020,23/11/2020,06/12/2020,Amarillo,Medio
+32,Zacatecas,20/11/2020,23/11/2020,06/12/2020,Naranja,Alto
+1,Aguascalientes,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+2,Baja California,04/12/2020,07/12/2020,20/12/2020,Rojo,Máximo
+3,Baja California Sur,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+4,Campeche,04/12/2020,07/12/2020,20/12/2020,Verde,Bajo
+5,Coahuila de Zaragoza,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+6,Colima,04/12/2020,07/12/2020,20/12/2020,Amarillo,Medio
+7,Chiapas,04/12/2020,07/12/2020,20/12/2020,Verde,Bajo
+8,Chihuahua,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+9,Ciudad de México,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+10,Durango,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+11,Guanajuato,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+12,Guerrero,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+13,Hidalgo,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+14,Jalisco,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+15,México,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+16,Michoacán de Ocampo,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+17,Morelos,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+18,Nayarit,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+19,Nuevo León,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+20,Oaxaca,04/12/2020,07/12/2020,20/12/2020,Amarillo,Medio
+21,Puebla,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+22,Querétaro,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+23,Quintana Roo,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+24,San Luis Potosí,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+25,Sinaloa,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+26,Sonora,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+27,Tabasco,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+28,Tamaulipas,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+29,Tlaxcala,04/12/2020,07/12/2020,20/12/2020,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,04/12/2020,07/12/2020,20/12/2020,Verde,Bajo
+31,Yucatán,04/12/2020,07/12/2020,20/12/2020,Naranja,Alto
+32,Zacatecas,04/12/2020,07/12/2020,20/12/2020,Rojo,Máximo
+1,Aguascalientes,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+2,Baja California,18/12/2020,21/12/2020,03/01/2021,Rojo,Máximo
+3,Baja California Sur,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+4,Campeche,18/12/2020,21/12/2020,03/01/2021,Verde,Bajo
+5,Coahuila de Zaragoza,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+6,Colima,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+7,Chiapas,18/12/2020,21/12/2020,03/01/2021,Verde,Bajo
+8,Chihuahua,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+9,Ciudad de México,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+10,Durango,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+11,Guanajuato,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+12,Guerrero,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+13,Hidalgo,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+14,Jalisco,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+15,México,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+16,Michoacán de Ocampo,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+17,Morelos,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+18,Nayarit,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+19,Nuevo León,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+20,Oaxaca,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+21,Puebla,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+22,Querétaro,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+23,Quintana Roo,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+24,San Luis Potosí,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+25,Sinaloa,18/12/2020,21/12/2020,03/01/2021,Amarillo,Medio
+26,Sonora,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+27,Tabasco,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+28,Tamaulipas,18/12/2020,21/12/2020,03/01/2021,Amarillo,Medio
+29,Tlaxcala,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+30,Veracruz de Ignacio de la Llave,18/12/2020,21/12/2020,03/01/2021,Amarillo,Medio
+31,Yucatán,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+32,Zacatecas,18/12/2020,21/12/2020,03/01/2021,Naranja,Alto
+1,Aguascalientes,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+2,Baja California,01/01/2021,04/01/2021,17/01/2021,Rojo,Máximo
+3,Baja California Sur,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+4,Campeche,01/01/2021,04/01/2021,17/01/2021,Verde,Bajo
+5,Coahuila de Zaragoza,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+6,Colima,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+7,Chiapas,01/01/2021,04/01/2021,17/01/2021,Verde,Bajo
+8,Chihuahua,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+9,Ciudad de México,01/01/2021,04/01/2021,17/01/2021,Rojo,Máximo
+10,Durango,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+11,Guanajuato,01/01/2021,04/01/2021,17/01/2021,Rojo,Máximo
+12,Guerrero,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+13,Hidalgo,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+14,Jalisco,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+15,México,01/01/2021,04/01/2021,17/01/2021,Rojo,Máximo
+16,Michoacán de Ocampo,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+17,Morelos,01/01/2021,04/01/2021,17/01/2021,Rojo,Máximo
+18,Nayarit,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+19,Nuevo León,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+20,Oaxaca,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+21,Puebla,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+22,Querétaro,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+23,Quintana Roo,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+24,San Luis Potosí,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+25,Sinaloa,01/01/2021,04/01/2021,17/01/2021,Amarillo,Medio
+26,Sonora,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+27,Tabasco,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+28,Tamaulipas,01/01/2021,04/01/2021,17/01/2021,Amarillo,Medio
+29,Tlaxcala,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+30,Veracruz de Ignacio de la Llave,01/01/2021,04/01/2021,17/01/2021,Amarillo,Medio
+31,Yucatán,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+32,Zacatecas,01/01/2021,04/01/2021,17/01/2021,Naranja,Alto
+1,Aguascalientes,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+2,Baja California,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+3,Baja California Sur,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+4,Campeche,15/01/2021,18/01/2021,31/01/2021,Verde,Bajo
+5,Coahuila de Zaragoza,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+6,Colima,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+7,Chiapas,15/01/2021,18/01/2021,31/01/2021,Amarillo,Medio
+8,Chihuahua,15/01/2021,18/01/2021,31/01/2021,Amarillo,Medio
+9,Ciudad de México,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+10,Durango,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+11,Guanajuato,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+12,Guerrero,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+13,Hidalgo,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+14,Jalisco,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+15,México,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+16,Michoacán de Ocampo,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+17,Morelos,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+18,Nayarit,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+19,Nuevo León,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+20,Oaxaca,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+21,Puebla,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+22,Querétaro,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+23,Quintana Roo,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+24,San Luis Potosí,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+25,Sinaloa,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+26,Sonora,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+27,Tabasco,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+28,Tamaulipas,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+29,Tlaxcala,15/01/2021,18/01/2021,31/01/2021,Rojo,Máximo
+30,Veracruz de Ignacio de la Llave,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+31,Yucatán,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+32,Zacatecas,15/01/2021,18/01/2021,31/01/2021,Naranja,Alto
+1,Aguascalientes,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+2,Baja California,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+3,Baja California Sur,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+4,Campeche,29/01/2021,01/02/2021,14/02/2021,Amarillo,Medio
+5,Coahuila de Zaragoza,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+6,Colima,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+7,Chiapas,29/01/2021,01/02/2021,14/02/2021,Amarillo,Medio
+8,Chihuahua,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+9,Ciudad de México,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+10,Durango,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+11,Guanajuato,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+12,Guerrero,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+13,Hidalgo,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+14,Jalisco,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+15,México,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+16,Michoacán de Ocampo,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+17,Morelos,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+18,Nayarit,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+19,Nuevo León,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+20,Oaxaca,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+21,Puebla,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+22,Querétaro,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+23,Quintana Roo,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+24,San Luis Potosí,29/01/2021,01/02/2021,14/02/2021,Rojo,Máximo
+25,Sinaloa,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+26,Sonora,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+27,Tabasco,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+28,Tamaulipas,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+29,Tlaxcala,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+30,Veracruz de Ignacio de la Llave,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+31,Yucatán,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+32,Zacatecas,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
