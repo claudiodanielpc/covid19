@@ -639,3 +639,35 @@ cve_ent,nom_ent,fecha_publica,fecha_inicio,fecha_fin,color_sem,nivel
 30,Veracruz de Ignacio de la Llave,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
 31,Yucatán,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
 32,Zacatecas,29/01/2021,01/02/2021,14/02/2021,Naranja,Alto
+1,Aguascalientes,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+2,Baja California,12/02/2021,15/02/2021,28/02/2021,Amarillo,Medio
+3,Baja California Sur,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+4,Campeche,12/02/2021,15/02/2021,28/02/2021,Amarillo,Medio
+5,Coahuila de Zaragoza,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+6,Colima,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+7,Chiapas,12/02/2021,15/02/2021,28/02/2021,Verde,Bajo
+8,Chihuahua,12/02/2021,15/02/2021,28/02/2021,Amarillo,Medio
+9,Ciudad de México,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+10,Durango,12/02/2021,15/02/2021,28/02/2021,Amarillo,Medio
+11,Guanajuato,12/02/2021,15/02/2021,28/02/2021,Rojo,Máximo
+12,Guerrero,12/02/2021,15/02/2021,28/02/2021,Rojo,Máximo
+13,Hidalgo,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+14,Jalisco,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+15,México,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+16,Michoacán de Ocampo,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+17,Morelos,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+18,Nayarit,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+19,Nuevo León,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+20,Oaxaca,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+21,Puebla,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+22,Querétaro,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+23,Quintana Roo,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+24,San Luis Potosí,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+25,Sinaloa,12/02/2021,15/02/2021,28/02/2021,Amarillo,Medio
+26,Sonora,12/02/2021,15/02/2021,28/02/2021,Amarillo,Medio
+27,Tabasco,12/02/2021,15/02/2021,28/02/2021,Amarillo,Medio
+28,Tamaulipas,12/02/2021,15/02/2021,28/02/2021,Amarillo,Medio
+29,Tlaxcala,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+30,Veracruz de Ignacio de la Llave,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+31,Yucatán,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+32,Zacatecas,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
