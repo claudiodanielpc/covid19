@@ -671,3 +671,35 @@ cve_ent,nom_ent,fecha_publica,fecha_inicio,fecha_fin,color_sem,nivel
 30,Veracruz de Ignacio de la Llave,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
 31,Yucatán,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
 32,Zacatecas,12/02/2021,15/02/2021,28/02/2021,Naranja,Alto
+1,Aguascalientes,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+2,Baja California,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+3,Baja California Sur,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+4,Campeche,26/02/2021,01/03/2021,14/03/2021,Verde,Bajo
+5,Coahuila de Zaragoza,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+6,Colima,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+7,Chiapas,26/02/2021,01/03/2021,14/03/2021,Verde,Bajo
+8,Chihuahua,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+9,Ciudad de México,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+10,Durango,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+11,Guanajuato,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+12,Guerrero,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+13,Hidalgo,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+14,Jalisco,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+15,México,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+16,Michoacán de Ocampo,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+17,Morelos,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+18,Nayarit,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+19,Nuevo León,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+20,Oaxaca,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+21,Puebla,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+22,Querétaro,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+23,Quintana Roo,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+24,San Luis Potosí,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+25,Sinaloa,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+26,Sonora,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+27,Tabasco,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+28,Tamaulipas,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+29,Tlaxcala,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
+31,Yucatán,26/02/2021,01/03/2021,14/03/2021,Naranja,Alto
+32,Zacatecas,26/02/2021,01/03/2021,14/03/2021,Amarillo,Medio
