@@ -831,3 +831,35 @@ cve_ent,nom_ent,fecha_publica,fecha_inicio,fecha_fin,color_sem,nivel
 30,Veracruz de Ignacio de la Llave,23/04/2021,26/04/2021,09/05/2021,Verde,Bajo
 31,Yucatán,23/04/2021,26/04/2021,09/05/2021,Amarillo,Medio
 32,Zacatecas,23/04/2021,26/04/2021,09/05/2021,Amarillo,Medio
+1,Aguascalientes,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+2,Baja California,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+3,Baja California Sur,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+4,Campeche,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+5,Coahuila de Zaragoza,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+6,Colima,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+7,Chiapas,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+8,Chihuahua,07/05/2021,10/05/2021,23/05/2021,Naranja,Alto
+9,Ciudad de México,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+10,Durango,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+11,Guanajuato,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+12,Guerrero,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+13,Hidalgo,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+14,Jalisco,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+15,México,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+16,Michoacán de Ocampo,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+17,Morelos,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+18,Nayarit,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+19,Nuevo León,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+20,Oaxaca,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+21,Puebla,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+22,Querétaro,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+23,Quintana Roo,07/05/2021,10/05/2021,23/05/2021,Naranja,Alto
+24,San Luis Potosí,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+25,Sinaloa,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+26,Sonora,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+27,Tabasco,07/05/2021,10/05/2021,23/05/2021,Naranja,Alto
+28,Tamaulipas,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+29,Tlaxcala,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+30,Veracruz de Ignacio de la Llave,07/05/2021,10/05/2021,23/05/2021,Verde,Bajo
+31,Yucatán,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
+32,Zacatecas,07/05/2021,10/05/2021,23/05/2021,Amarillo,Medio
