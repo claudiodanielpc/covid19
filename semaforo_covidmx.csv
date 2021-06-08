@@ -895,35 +895,35 @@ cve_ent,nom_ent,fecha_publica,fecha_inicio,fecha_fin,color_sem,nivel
 30,Veracruz de Ignacio de la Llave,21/05/2021,24/05/2021,06/06/2021,Verde,Bajo
 31,Yucatán,21/05/2021,24/05/2021,06/06/2021,Amarillo,Medio
 32,Zacatecas,21/05/2021,24/05/2021,06/06/2021,Amarillo,Medio
-1,Aguascalientes,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-2,Baja California,04/06/2021,07/06/2021,20/07/2021,Amarillo,Medio
-3,Baja California Sur,04/06/2021,07/06/2021,20/07/2021,Naranja,Alto
-4,Campeche,04/06/2021,07/06/2021,20/07/2021,Amarillo,Medio
-5,Coahuila de Zaragoza,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-6,Colima,04/06/2021,07/06/2021,20/07/2021,Amarillo,Medio
-7,Chiapas,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-8,Chihuahua,04/06/2021,07/06/2021,20/07/2021,Amarillo,Medio
-9,Ciudad de México,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-10,Durango,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-11,Guanajuato,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-12,Guerrero,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-13,Hidalgo,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-14,Jalisco,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-15,México,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-16,Michoacán de Ocampo,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-17,Morelos,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-18,Nayarit,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-19,Nuevo León,04/06/2021,07/06/2021,20/07/2021,Amarillo,Medio
-20,Oaxaca,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-21,Puebla,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-22,Querétaro,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-23,Quintana Roo,04/06/2021,07/06/2021,20/07/2021,Naranja,Alto
-24,San Luis Potosí,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-25,Sinaloa,04/06/2021,07/06/2021,20/07/2021,Amarillo,Medio
-26,Sonora,04/06/2021,07/06/2021,20/07/2021,Amarillo,Medio
-27,Tabasco,04/06/2021,07/06/2021,20/07/2021,Naranja,Alto
-28,Tamaulipas,04/06/2021,07/06/2021,20/07/2021,Amarillo,Medio
-29,Tlaxcala,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
-30,Veracruz de Ignacio de la Llave,04/06/2021,07/06/2021,20/07/2021,Amarillo,Medio
-31,Yucatán,04/06/2021,07/06/2021,20/07/2021,Naranja,Alto
-32,Zacatecas,04/06/2021,07/06/2021,20/07/2021,Verde,Bajo
+1,Aguascalientes,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+2,Baja California,04/06/2021,07/06/2021,20/06/2021,Amarillo,Medio
+3,Baja California Sur,04/06/2021,07/06/2021,20/06/2021,Naranja,Alto
+4,Campeche,04/06/2021,07/06/2021,20/06/2021,Amarillo,Medio
+5,Coahuila de Zaragoza,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+6,Colima,04/06/2021,07/06/2021,20/06/2021,Amarillo,Medio
+7,Chiapas,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+8,Chihuahua,04/06/2021,07/06/2021,20/06/2021,Amarillo,Medio
+9,Ciudad de México,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+10,Durango,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+11,Guanajuato,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+12,Guerrero,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+13,Hidalgo,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+14,Jalisco,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+15,México,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+16,Michoacán de Ocampo,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+17,Morelos,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+18,Nayarit,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+19,Nuevo León,04/06/2021,07/06/2021,20/06/2021,Amarillo,Medio
+20,Oaxaca,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+21,Puebla,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+22,Querétaro,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+23,Quintana Roo,04/06/2021,07/06/2021,20/06/2021,Naranja,Alto
+24,San Luis Potosí,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+25,Sinaloa,04/06/2021,07/06/2021,20/06/2021,Amarillo,Medio
+26,Sonora,04/06/2021,07/06/2021,20/06/2021,Amarillo,Medio
+27,Tabasco,04/06/2021,07/06/2021,20/06/2021,Naranja,Alto
+28,Tamaulipas,04/06/2021,07/06/2021,20/06/2021,Amarillo,Medio
+29,Tlaxcala,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
+30,Veracruz de Ignacio de la Llave,04/06/2021,07/06/2021,20/06/2021,Amarillo,Medio
+31,Yucatán,04/06/2021,07/06/2021,20/06/2021,Naranja,Alto
+32,Zacatecas,04/06/2021,07/06/2021,20/06/2021,Verde,Bajo
