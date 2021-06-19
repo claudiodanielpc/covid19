@@ -45,7 +45,7 @@ pol%>%
   # agrega títulos
   scale_fill_manual(values = colores)+
   labs(title = "Semáforo epidemiológico COVID-19 por fecha de publicación",
-       subtitle = "Del 1° de junio de 2020 al 7 de mayo 2021",
+       subtitle = "Del 1° de junio de 2020 al 18 de junio 2021",
        caption = "Fuente: @claudiodanielpc con información de la Secretaría de Salud") +
   theme_linedraw()+
   theme(plot.title = element_text(hjust = 0, size=25,face="bold"),
