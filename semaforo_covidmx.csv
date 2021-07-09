@@ -959,3 +959,35 @@ cve_ent,nom_ent,fecha_publica,fecha_inicio,fecha_fin,color_sem,nivel
 30,Veracruz de Ignacio de la Llave,18/06/2021,21/06/2021,04/07/2021,Amarillo,Medio
 31,Yucatán,18/06/2021,21/06/2021,04/07/2021,Naranja,Alto
 32,Zacatecas,18/06/2021,21/06/2021,04/07/2021,Verde,Bajo
+1,Aguascalientes,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+2,Baja California,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+3,Baja California Sur,02/07/2021,05/07/2021,18/07/2021,Naranja,Alto
+4,Campeche,02/07/2021,05/07/2021,18/07/2021,Amarillo,Medio
+5,Coahuila de Zaragoza,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+6,Colima,02/07/2021,05/07/2021,18/07/2021,Amarillo,Medio
+7,Chiapas,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+8,Chihuahua,02/07/2021,05/07/2021,18/07/2021,Amarillo,Medio
+9,Ciudad de México,02/07/2021,05/07/2021,18/07/2021,Amarillo,Medio
+10,Durango,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+11,Guanajuato,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+12,Guerrero,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+13,Hidalgo,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+14,Jalisco,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+15,México,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+16,Michoacán de Ocampo,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+17,Morelos,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+18,Nayarit,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+19,Nuevo León,02/07/2021,05/07/2021,18/07/2021,Amarillo,Medio
+20,Oaxaca,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+21,Puebla,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+22,Querétaro,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+23,Quintana Roo,02/07/2021,05/07/2021,18/07/2021,Naranja,Alto
+24,San Luis Potosí,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+25,Sinaloa,02/07/2021,05/07/2021,18/07/2021,Amarillo,Medio
+26,Sonora,02/07/2021,05/07/2021,18/07/2021,Amarillo,Medio
+27,Tabasco,02/07/2021,05/07/2021,18/07/2021,Naranja,Alto
+28,Tamaulipas,02/07/2021,05/07/2021,18/07/2021,Naranja,Alto
+29,Tlaxcala,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+30,Veracruz de Ignacio de la Llave,02/07/2021,05/07/2021,18/07/2021,Amarillo,Medio
+31,Yucatán,02/07/2021,05/07/2021,18/07/2021,Naranja,Alto
+32,Zacatecas,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
