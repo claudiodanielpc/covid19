@@ -991,3 +991,67 @@ cve_ent,nom_ent,fecha_publica,fecha_inicio,fecha_fin,color_sem,nivel
 30,Veracruz de Ignacio de la Llave,02/07/2021,05/07/2021,18/07/2021,Amarillo,Medio
 31,Yucatán,02/07/2021,05/07/2021,18/07/2021,Naranja,Alto
 32,Zacatecas,02/07/2021,05/07/2021,18/07/2021,Verde,Bajo
+1,Aguascalientes,23/07/2021,26/07/2021,08/09/2021,Verde,Bajo
+2,Baja California,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+3,Baja California Sur,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+4,Campeche,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+5,Coahuila de Zaragoza,23/07/2021,26/07/2021,08/09/2021,Verde,Bajo
+6,Colima,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+7,Chiapas,23/07/2021,26/07/2021,08/09/2021,Verde,Bajo
+8,Chihuahua,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+9,Ciudad de México,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+10,Durango,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+11,Guanajuato,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+12,Guerrero,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+13,Hidalgo,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+14,Jalisco,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+15,México,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+16,Michoacán de Ocampo,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+17,Morelos,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+18,Nayarit,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+19,Nuevo León,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+20,Oaxaca,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+21,Puebla,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+22,Querétaro,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+23,Quintana Roo,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+24,San Luis Potosí,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+25,Sinaloa,23/07/2021,26/07/2021,08/09/2021,Rojo,Alto
+26,Sonora,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+27,Tabasco,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+28,Tamaulipas,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+29,Tlaxcala,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+30,Veracruz de Ignacio de la Llave,23/07/2021,26/07/2021,08/09/2021,Naranja,Alto
+31,Yucatán,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+32,Zacatecas,23/07/2021,26/07/2021,08/09/2021,Amarillo,Medio
+1,Aguascalientes,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
+2,Baja California,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
+3,Baja California Sur,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+4,Campeche,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
+5,Coahuila de Zaragoza,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
+6,Colima,06/08/2021,09/08/2021,22/08/2021,Rojo,Máximo
+7,Chiapas,06/08/2021,09/08/2021,22/08/2021,Verde,Bajo
+8,Chihuahua,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
+9,Ciudad de México,06/08/2021,09/08/2021,22/08/2021,Rojo,Máximo
+10,Durango,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+11,Guanajuato,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
+12,Guerrero,06/08/2021,09/08/2021,22/08/2021,Rojo,Máximo
+13,Hidalgo,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+14,Jalisco,06/08/2021,09/08/2021,22/08/2021,Rojo,Máximo
+15,México,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+16,Michoacán de Ocampo,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+17,Morelos,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
+18,Nayarit,06/08/2021,09/08/2021,22/08/2021,Rojo,Máximo
+19,Nuevo León,06/08/2021,09/08/2021,22/08/2021,Rojo,Máximo
+20,Oaxaca,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+21,Puebla,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+22,Querétaro,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+23,Quintana Roo,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+24,San Luis Potosí,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+25,Sinaloa,06/08/2021,09/08/2021,22/08/2021,Rojo,Máximo
+26,Sonora,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+27,Tabasco,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
+28,Tamaulipas,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+29,Tlaxcala,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+30,Veracruz de Ignacio de la Llave,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+31,Yucatán,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
+32,Zacatecas,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
