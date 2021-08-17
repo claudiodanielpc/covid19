@@ -51,14 +51,14 @@ coronavirus<-ggplot(curva, aes(fecha, value)) +
   geom_vline(xintercept = ymd("2020-05-30"), linetype="dashed", 
              color = "red", size=1.5)+
   scale_color_manual(values = covid_colors)+
-  geom_text(aes(label=ifelse(curva$fecha =='2021-08-09',
+  geom_text(aes(label=ifelse(curva$fecha =='2021-08-16',
                              curva$etiqueta,"")),
             hjust=0.5,vjust=2,size=5,fontface="bold")+
   scale_y_continuous(labels=comma)+
   theme_bw() +
   labs(
     title = "México. Nuevos casos confirmados y acumulados de COVID19",
-      subtitle = "27 de febrero de 2020 al 9 de agosto de 2021",
+      subtitle = "27 de febrero de 2020 al 16 de agosto de 2021",
     y = "Casos",
     x="Fecha",
     caption = "Nota: La línea vertical azul indica el inicio de la Jornada Nacional de Sana Distancia (23 de marzo),
@@ -109,14 +109,14 @@ ggplot(def, aes(fecha, value)) +
   geom_vline(xintercept = ymd("2020-05-30"), linetype="dashed", 
              color = "red", size=1.5)+
   scale_color_manual(values = covid_colors)+
-  geom_text(aes(label=ifelse(def$fecha =='2021-08-09',
+  geom_text(aes(label=ifelse(def$fecha =='2021-08-16',
                              def$etiqueta,"")),
             hjust=0.5,vjust=1.5,size=5,fontface="bold")+
   scale_y_continuous(labels=comma)+
   theme_bw() +
   labs(
     title = "México. Defunciones por COVID19 y tasa de letalidad",
-    subtitle = "27 de febrero de 2020 al 9 de agosto de 2021",
+    subtitle = "27 de febrero de 2020 al 16 de agosto de 2021",
     y = "",
     x="Fecha",
     caption = "Nota: La tasa de letalidad es la relación entre el número de defunciones y los casos existentes por 100. 
