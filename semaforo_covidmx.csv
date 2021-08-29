@@ -1055,3 +1055,35 @@ cve_ent,nom_ent,fecha_publica,fecha_inicio,fecha_fin,color_sem,nivel
 30,Veracruz de Ignacio de la Llave,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
 31,Yucatán,06/08/2021,09/08/2021,22/08/2021,Amarillo,Medio
 32,Zacatecas,06/08/2021,09/08/2021,22/08/2021,Naranja,Alto
+1,Aguascalientes,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+2,Baja California,20/08/2021,23/08/2021,05/09/2021,Amarillo,Medio
+3,Baja California Sur,20/08/2021,23/08/2021,05/09/2021,Amarillo,Medio
+4,Campeche,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+5,Coahuila de Zaragoza,20/08/2021,23/08/2021,05/09/2021,Amarillo,Medio
+6,Colima,20/08/2021,23/08/2021,05/09/2021,Rojo,Máximo
+7,Chiapas,20/08/2021,23/08/2021,05/09/2021,Verde,Bajo
+8,Chihuahua,20/08/2021,23/08/2021,05/09/2021,Amarillo,Medio
+9,Ciudad de México,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+10,Durango,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+11,Guanajuato,20/08/2021,23/08/2021,05/09/2021,Amarillo,Medio
+12,Guerrero,20/08/2021,23/08/2021,05/09/2021,Rojo,Máximo
+13,Hidalgo,20/08/2021,23/08/2021,05/09/2021,Rojo,Máximo
+14,Jalisco,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+15,México,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+16,Michoacán de Ocampo,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+17,Morelos,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+18,Nayarit,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+19,Nuevo León,20/08/2021,23/08/2021,05/09/2021,Rojo,Máximo
+20,Oaxaca,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+21,Puebla,20/08/2021,23/08/2021,05/09/2021,Rojo,Máximo
+22,Querétaro,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+23,Quintana Roo,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+24,San Luis Potosí,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+25,Sinaloa,20/08/2021,23/08/2021,05/09/2021,Amarillo,Medio
+26,Sonora,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+27,Tabasco,20/08/2021,23/08/2021,05/09/2021,Rojo,Máximo
+28,Tamaulipas,20/08/2021,23/08/2021,05/09/2021,Rojo,Máximo
+29,Tlaxcala,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+30,Veracruz de Ignacio de la Llave,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
+31,Yucatán,20/08/2021,23/08/2021,05/09/2021,Amarillo,Medio
+32,Zacatecas,20/08/2021,23/08/2021,05/09/2021,Naranja,Alto
